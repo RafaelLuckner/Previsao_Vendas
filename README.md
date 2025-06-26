@@ -15,7 +15,7 @@ O resultado é um [bot no telegram](https://t.me/TheRossmannBot) que, ao receber
  
 ![bot](/img/bot_telegram.png)
 ## [Link para o Bot](https://t.me/TheRossmannBot)
-## Grafico para auxilio na tomada de decisão
+## Gráfico para auxilio na tomada de decisão
 ![graph_final](/img/graph_final.png)
 
 #
